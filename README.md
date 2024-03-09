@@ -1,2 +1,2 @@
 # python
-Pythin test app
+Python test app
