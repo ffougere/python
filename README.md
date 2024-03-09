@@ -1,2 +1,4 @@
 # python
-Pythin test app
+Python test app
+
+## projet 1
